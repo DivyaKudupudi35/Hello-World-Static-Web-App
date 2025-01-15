@@ -8,7 +8,8 @@ function HelloWorld(id) {
   greeting.setAttribute('id', 'hello');
   greeting.style.visibility = "hidden";
   greeting.innerHTML = "Hello Divya!";
-
+  greeting.innerHTML = "Hello Divyaaa HIIII!";
+  
   element.appendChild(greeting);
 
   //sets the new header to appear
